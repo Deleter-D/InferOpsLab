@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+.pytest_cache/
+
+# CMake build
+/build/
+
+# Compiled output
+/inferopslab_core/
+*.so
+
+# IDE
+.vscode/
